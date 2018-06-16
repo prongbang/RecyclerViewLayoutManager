@@ -9,4 +9,4 @@
 ![screenshot png](https://prongbang.github.io/assets/images/android/9-2.png)
 
 ## Staggered Grid Layout Manager
-![screenshot png](https://prongbang.github.io/assets/images/android/9-2.png)
+![screenshot png](https://prongbang.github.io/assets/images/android/9-3.png)
